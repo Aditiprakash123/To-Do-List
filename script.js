@@ -33,7 +33,9 @@ document.addEventListener('DOMContentLoaded' ,()=>{
                 if(!checkbox.checked){
                     taskInput.value = li.querySelector('span').textContent;
                     li.remove();
-
+                    taskInput.style.color='yellow';
+                    taskInput.style.filter='brightness(2)';
+                    taskInput.focus();
                 }
                 else{
                     li.remove();
