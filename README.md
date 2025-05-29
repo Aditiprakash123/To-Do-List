@@ -21,7 +21,7 @@ A sleek and interactive To-Do List Web App built using **HTML**, **CSS**, and **
 
 ## 📸 Preview
 
-![To-Do App Screenshot](to-do snapshot.jpg)
+![Image](https://github.com/user-attachments/assets/59a5459c-93da-4d79-9f83-8971d1c29bfc)
 
 ## 🚀 How to Run
 
