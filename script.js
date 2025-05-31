@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded' ,()=>{
                     taskInput.value = li.querySelector('span').textContent;
                     li.remove();
                     taskInput.style.color='yellow';
-                    taskInput.style.filter='brightness(2)';
+                    taskInput.style.filter='brightness(9)';
                     taskInput.focus();
                 }
                 else{
